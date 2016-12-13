@@ -9,12 +9,12 @@ Augmented reality was the goal and still is possible. We are storing the photo a
 ## Dependencies and instructions:
 Rails 4, Heroku, Apache Cordova, Ionic, Cordova plugins: whitelist, camera, geolocation. 
 
-npm install -g cordova ionic
-ionic start Virtual-Graffiti blank --v2--ts
-npm install -g cordova
-cordova plugin add cordova-plugin-whitelist
-cordova plugin add cordova-plugin-camera
-cordova plugin add cordova-plugin-geolocation
+* npm install -g cordova ionic
+* ionic start Virtual-Graffiti blank --v2--ts
+* npm install -g cordova
+* cordova plugin add cordova-plugin-whitelist
+* cordova plugin add cordova-plugin-camera
+* cordova plugin add cordova-plugin-geolocation
 
 ## Contributors:
 - [@busster](https://github.com/busster)
