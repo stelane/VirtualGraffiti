@@ -17,5 +17,5 @@ cordova plugin add cordova-plugin-camera
 cordova plugin add cordova-plugin-geolocation
 
 ## Contributors:
-@busster
-@corbin1987
+- [@busster](https://github.com/busster)
+- [@corbin1987](https://github.com/corbin1987)
