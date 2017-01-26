@@ -22,3 +22,6 @@ Rails 4, Heroku, Apache Cordova, Ionic, Cordova plugins: whitelist, camera, geol
 
 ## Screenshots:
 ![ScreenShot](https://cloud.githubusercontent.com/assets/19857615/22320696/34d9d330-e354-11e6-9ae2-f0973bca776d.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/19857615/22320745/a3e50e02-e354-11e6-91f0-6d9704ab4af4.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/19857615/22320748/aafd4d62-e354-11e6-8c70-923645065d56.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/19857615/22320750/b25194d8-e354-11e6-9839-c7be28937637.png)
